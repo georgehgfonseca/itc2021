@@ -27,7 +27,9 @@ The jar file ``itc2021.jar`` will be generated.
 
 ### Requirements
 
-Java 16, Gurobi 9 and [Apache Commons Math](https://commons.apache.org/proper/commons-math/ "Apache Commons Math") library are required.
+- Java 16
+- [Gurobi 9](https://www.gurobi.com) or newer 
+- [Apache Commons Math](https://commons.apache.org/proper/commons-math/ "Apache Commons Math") library (included automatically by gradle).
 
 ## Questions?
 
