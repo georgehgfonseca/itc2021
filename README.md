@@ -5,7 +5,7 @@ Written by **[George Fonseca](http://professor.ufop.br/george/perfil)** and **[T
 (C) Copyright 2021 by GOAL (UFOP). All rights reserved.  
 More information: http://goal.ufop.br
 
-Please address all contributions, suggestions, and inquiries to the project owner, [George Fonseca](http://professor.ufop.br/george/perfil).
+Please address all contributions, suggestions, and inquiries to the repository owner, [George Fonseca](http://professor.ufop.br/george/perfil).
 
 ## Getting Started
 
