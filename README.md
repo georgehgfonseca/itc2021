@@ -14,11 +14,11 @@ This repository contains an integer programming formulation and a fix-and-optimi
 ### Compiling the code
 
 This project now uses [gradle](http://gradle.org "Gradle").
-It simplifies compiling the code with its dependencies. Just run:
+It simplifies compiling the code with its dependencies. Make sure you have access to Gurobi's Java library and just run:
 
-- gradle build
+- ``gradle build``
 
-The jar file (``itc2021.jar``) will be generated.
+The jar file ``itc2021.jar`` will be generated.
 
 ### Usage examples:
 
