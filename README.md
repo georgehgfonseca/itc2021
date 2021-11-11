@@ -22,11 +22,8 @@ The jar file (``itc2021.jar``) will be generated.
 
 ### Usage examples:
 
-- ``java -jar upmsp.jar instance.txt solution.txt``  
-- ``java -jar upmsp.jar instance.txt solution.txt -algorithm sa -alpha 0.98 -saMax 1000 -t0 100000``  
-- ``java -jar upmsp.jar instance.txt solution.txt -algorithm ils -rnaMax 10000000 -itersP 700 -p0 10 -pMax 5``  
-- ``java -jar upmsp.jar instance.txt solution.txt -algorithm lahc -listSize 100``  
-- ``java -jar upmsp.jar instance.txt solution.txt -algorithm schc -stepSize 100``  
+- ``java -jar itc2021.jar instance.xml solution.xml``
+- ``java -jar itc2021.jar instance.xml solution.xml -validate``
 
 ### Requirements
 
